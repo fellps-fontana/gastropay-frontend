@@ -7,7 +7,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/gastropay',
+  basePath: '/gastropay-frontend',
 }
 
 export default nextConfig
